@@ -2,7 +2,7 @@
 //  倒数分组求和.c
 //  
 //
-//  Created by 贺鑫帅 on 2023/7/31.
+//  on 2023/7/31.
 //
 
 #include <stdio.h>
